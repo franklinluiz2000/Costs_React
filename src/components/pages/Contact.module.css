@@ -1,0 +1,27 @@
+.body{
+  background-color: rgb(121, 133, 129);
+}
+.section{
+    background-color: rgb(255, 255, 255);
+    font-size: 180%;
+    margin-top: 5%;
+    margin-bottom: 25%;
+}
+
+.list_contact{    
+    align-items: center;
+    /* color: brown; */
+    list-style: none;
+}
+
+.list_contact li {
+    margin: 0 1em;
+  }
+  
+  .list_contact li:hover {
+    color: #ffbb33;
+  }
+  
+  .list_contact a{
+    color: rgb(100, 95, 95);
+  }
